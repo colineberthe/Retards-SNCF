@@ -1,0 +1,307 @@
+Round Number,Date,Location,Home Team,Away Team,Result
+1,11/08/2023 21:00:00,Stade de Nice,OGC Nice,LOSC Lille,1 - 1
+1,12/08/2023 17:00:00,Stade Vélodrome,Olympique de Marseille,Stade de Reims,2 - 1
+1,12/08/2023 21:00:00,Parc des Princes,Paris Saint-Germain,FC Lorient,0 - 0
+1,13/08/2023 13:00:00,Stade Francis-Le Blé,Stade Brestois 29,RC Lens,3 - 2
+1,13/08/2023 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,AS Monaco,2 - 4
+1,13/08/2023 15:00:00,Stade de la Mosson,Montpellier Hérault SC,Havre AC,2 - 2
+1,13/08/2023 15:00:00,Stade de la Beaujoire,FC Nantes,Toulouse FC,1 - 2
+1,13/08/2023 17:05:00,Roazhon Park,Stade Rennais FC,FC Metz,5 - 1
+1,13/08/2023 20:45:00,Stade de la Meinau,RC Strasbourg Alsace,Olympique Lyonnais,2 - 1
+2,18/08/2023 21:00:00,Stade Saint-Symphorien,FC Metz,Olympique de Marseille,2 - 2
+2,19/08/2023 19:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,Montpellier Hérault SC,1 - 4
+2,19/08/2023 21:00:00,Stadium de Toulouse,Toulouse FC,Paris Saint-Germain,1 - 1
+2,20/08/2023 13:00:00,Stade Pierre-Mauroy,LOSC Lille,FC Nantes,2 - 0
+2,20/08/2023 15:00:00,Stade Océane,Havre AC,Stade Brestois 29,1 - 2
+2,20/08/2023 15:00:00,Stade du Moustoir,FC Lorient,OGC Nice,1 - 1
+2,20/08/2023 15:00:00,Stade Auguste Delaune,Stade de Reims,Clermont Foot 63,2 - 0
+2,20/08/2023 19:00:00,Stade Louis II,AS Monaco,RC Strasbourg Alsace,3 - 0
+2,20/08/2023 20:45:00,Stade Bollaert-Delelis,RC Lens,Stade Rennais FC,1 - 1
+3,25/08/2023 21:00:00,Stade de la Beaujoire,FC Nantes,AS Monaco,3 - 3
+3,26/08/2023 17:00:00,Stade Vélodrome,Olympique de Marseille,Stade Brestois 29,2 - 0
+3,26/08/2023 21:00:00,Parc des Princes,Paris Saint-Germain,RC Lens,3 - 1
+3,27/08/2023 13:00:00,Roazhon Park,Stade Rennais FC,Havre AC,2 - 2
+3,27/08/2023 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,FC Metz,0 - 1
+3,27/08/2023 15:00:00,Stade de la Mosson,Montpellier Hérault SC,Stade de Reims,1 - 3
+3,27/08/2023 15:00:00,Stade de la Meinau,RC Strasbourg Alsace,Toulouse FC,2 - 0
+3,27/08/2023 17:05:00,Stade du Moustoir,FC Lorient,LOSC Lille,4 - 1
+3,27/08/2023 20:45:00,Stade de Nice,OGC Nice,Olympique Lyonnais,0 - 0
+4,01/09/2023 21:00:00,Stade de la Beaujoire,FC Nantes,Olympique de Marseille,1 - 1
+4,02/09/2023 17:00:00,Stade Francis-Le Blé,Stade Brestois 29,Stade Rennais FC,0 - 0
+4,02/09/2023 21:00:00,Stade Louis II,AS Monaco,RC Lens,3 - 0
+4,03/09/2023 13:00:00,Stadium de Toulouse,Toulouse FC,Clermont Foot 63,2 - 2
+4,03/09/2023 15:00:00,Stade Océane,Havre AC,FC Lorient,3 - 0
+4,03/09/2023 15:00:00,Stade Pierre-Mauroy,LOSC Lille,Montpellier Hérault SC,1 - 0
+4,03/09/2023 15:00:00,Stade Saint-Symphorien,FC Metz,Stade de Reims,2 - 2
+4,03/09/2023 17:05:00,Stade de Nice,OGC Nice,RC Strasbourg Alsace,2 - 0
+4,03/09/2023 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,Paris Saint-Germain,1 - 4
+5,15/09/2023 21:00:00,Parc des Princes,Paris Saint-Germain,OGC Nice,2 - 3
+5,16/09/2023 17:00:00,Roazhon Park,Stade Rennais FC,LOSC Lille,2 - 2
+5,16/09/2023 21:00:00,Stade Bollaert-Delelis,RC Lens,FC Metz,0 - 1
+5,17/09/2023 13:00:00,Stade du Moustoir,FC Lorient,AS Monaco,2 - 2
+5,17/09/2023 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,FC Nantes,0 - 1
+5,17/09/2023 15:00:00,Stade Auguste Delaune,Stade de Reims,Stade Brestois 29,1 - 2
+5,17/09/2023 15:00:00,Stade de la Meinau,RC Strasbourg Alsace,Montpellier Hérault SC,2 - 2
+5,17/09/2023 17:05:00,Stade Vélodrome,Olympique de Marseille,Toulouse FC,0 - 0
+5,17/09/2023 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,Havre AC,0 - 0
+6,22/09/2023 21:00:00,Stade Louis II,AS Monaco,OGC Nice,0 - 1
+6,23/09/2023 17:00:00,Stade de la Beaujoire,FC Nantes,FC Lorient,5 - 3
+6,23/09/2023 21:00:00,Stade Francis-Le Blé,Stade Brestois 29,Olympique Lyonnais,1 - 0
+6,24/09/2023 13:00:00,Stade Saint-Symphorien,FC Metz,RC Strasbourg Alsace,0 - 1
+6,24/09/2023 15:00:00,Stade Océane,Havre AC,Clermont Foot 63,2 - 1
+6,24/09/2023 15:00:00,Stade Bollaert-Delelis,RC Lens,Toulouse FC,2 - 1
+6,24/09/2023 17:05:00,Stade de la Mosson,Montpellier Hérault SC,Stade Rennais FC,0 - 0
+6,24/09/2023 20:45:00,Parc des Princes,Paris Saint-Germain,Olympique de Marseille,4 - 0
+6,26/09/2023 21:00:00,Stade Pierre-Mauroy,LOSC Lille,Stade de Reims,1 - 2
+7,29/09/2023 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,RC Lens,0 - 1
+7,30/09/2023 17:00:00,Stade Gabriel Montpied,Clermont Foot 63,Paris Saint-Germain,0 - 0
+7,30/09/2023 21:00:00,Stade Louis II,AS Monaco,Olympique de Marseille,3 - 2
+7,01/10/2023 13:00:00,Stade Auguste Delaune,Stade de Reims,Olympique Lyonnais,2 - 0
+7,01/10/2023 15:00:00,Stade Océane,Havre AC,LOSC Lille,0 - 2
+7,01/10/2023 15:00:00,Stade de Nice,OGC Nice,Stade Brestois 29,0 - 0
+7,01/10/2023 15:00:00,Stadium de Toulouse,Toulouse FC,FC Metz,3 - 0
+7,01/10/2023 17:05:00,Stade du Moustoir,FC Lorient,Montpellier Hérault SC,0 - 3
+7,01/10/2023 20:45:00,Roazhon Park,Stade Rennais FC,FC Nantes,3 - 1
+8,06/10/2023 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,FC Nantes,1 - 2
+8,07/10/2023 17:00:00,Stade Saint-Symphorien,FC Metz,OGC Nice,0 - 1
+8,07/10/2023 21:00:00,Stade Auguste Delaune,Stade de Reims,AS Monaco,1 - 3
+8,08/10/2023 13:00:00,Stade Vélodrome,Olympique de Marseille,Havre AC,3 - 0
+8,08/10/2023 15:00:00,Stade Francis-Le Blé,Stade Brestois 29,Toulouse FC,1 - 1
+8,08/10/2023 15:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,FC Lorient,3 - 3
+8,08/10/2023 17:05:00,Stade Bollaert-Delelis,RC Lens,LOSC Lille,1 - 1
+8,08/10/2023 20:45:00,Roazhon Park,Stade Rennais FC,Paris Saint-Germain,1 - 3
+8,29/11/2023 19:00:00,Stade de la Mosson,Montpellier Hérault SC,Clermont Foot 63,1 - 1
+9,20/10/2023 21:00:00,Stade Océane,Havre AC,RC Lens,0 - 0
+9,21/10/2023 17:00:00,Parc des Princes,Paris Saint-Germain,RC Strasbourg Alsace,3 - 0
+9,21/10/2023 21:00:00,Stade de Nice,OGC Nice,Olympique de Marseille,1 - 0
+9,22/10/2023 13:00:00,Stade du Moustoir,FC Lorient,Stade Rennais FC,2 - 1
+9,22/10/2023 15:00:00,Stade Pierre-Mauroy,LOSC Lille,Stade Brestois 29,1 - 0
+9,22/10/2023 15:00:00,Stade de la Beaujoire,FC Nantes,Montpellier Hérault SC,2 - 0
+9,22/10/2023 15:00:00,Stadium de Toulouse,Toulouse FC,Stade de Reims,1 - 1
+9,22/10/2023 17:05:00,Stade Louis II,AS Monaco,FC Metz,2 - 1
+9,22/10/2023 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,Clermont Foot 63,1 - 2
+10,27/10/2023 21:00:00,Stade Gabriel Montpied,Clermont Foot 63,OGC Nice,0 - 1
+10,28/10/2023 17:00:00,Stade Auguste Delaune,Stade de Reims,FC Lorient,1 - 0
+10,28/10/2023 21:00:00,Stade Bollaert-Delelis,RC Lens,FC Nantes,4 - 0
+10,29/10/2023 13:00:00,Stade Francis-Le Blé,Stade Brestois 29,Paris Saint-Germain,2 - 3
+10,29/10/2023 15:00:00,Stade Pierre-Mauroy,LOSC Lille,AS Monaco,2 - 0
+10,29/10/2023 15:00:00,Stade Saint-Symphorien,FC Metz,Havre AC,0 - 0
+10,29/10/2023 15:00:00,Stade de la Mosson,Montpellier Hérault SC,Toulouse FC,3 - 0
+10,29/10/2023 17:05:00,Roazhon Park,Stade Rennais FC,RC Strasbourg Alsace,1 - 1
+10,06/12/2023 21:00:00,Stade Vélodrome,Olympique de Marseille,Olympique Lyonnais,3 - 0
+11,03/11/2023 21:00:00,Parc des Princes,Paris Saint-Germain,Montpellier Hérault SC,3 - 0
+11,04/11/2023 17:00:00,Stade du Moustoir,FC Lorient,RC Lens,0 - 0
+11,04/11/2023 21:00:00,Stade Vélodrome,Olympique de Marseille,LOSC Lille,0 - 0
+11,05/11/2023 13:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,FC Metz,1 - 1
+11,05/11/2023 15:00:00,Stade de la Beaujoire,FC Nantes,Stade de Reims,0 - 1
+11,05/11/2023 15:00:00,Stade de la Meinau,RC Strasbourg Alsace,Clermont Foot 63,0 - 0
+11,05/11/2023 15:00:00,Stadium de Toulouse,Toulouse FC,Havre AC,1 - 2
+11,05/11/2023 17:05:00,Stade Louis II,AS Monaco,Stade Brestois 29,2 - 0
+11,05/11/2023 20:45:00,Stade de Nice,OGC Nice,Stade Rennais FC,2 - 0
+12,10/11/2023 21:00:00,Stade de la Mosson,Montpellier Hérault SC,OGC Nice,0 - 0
+12,11/11/2023 17:00:00,Stade Auguste Delaune,Stade de Reims,Paris Saint-Germain,0 - 3
+12,11/11/2023 21:00:00,Stade Océane,Havre AC,AS Monaco,0 - 0
+12,12/11/2023 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,FC Lorient,1 - 0
+12,12/11/2023 15:00:00,Stade Pierre-Mauroy,LOSC Lille,Toulouse FC,1 - 1
+12,12/11/2023 15:00:00,Stade Saint-Symphorien,FC Metz,FC Nantes,3 - 1
+12,12/11/2023 17:05:00,Roazhon Park,Stade Rennais FC,Olympique Lyonnais,0 - 1
+12,12/11/2023 20:45:00,Stade Bollaert-Delelis,RC Lens,Olympique de Marseille,1 - 0
+12,07/12/2023 20:30:00,Stade Francis-Le Blé,Stade Brestois 29,RC Strasbourg Alsace,1 - 1
+13,24/11/2023 21:00:00,Parc des Princes,Paris Saint-Germain,AS Monaco,5 - 2
+13,25/11/2023 17:00:00,Stade Gabriel Montpied,Clermont Foot 63,RC Lens,0 - 3
+13,25/11/2023 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,Olympique de Marseille,1 - 1
+13,26/11/2023 13:00:00,Stade de Nice,OGC Nice,Toulouse FC,1 - 0
+13,26/11/2023 15:00:00,Stade du Moustoir,FC Lorient,FC Metz,2 - 3
+13,26/11/2023 15:00:00,Stade de la Mosson,Montpellier Hérault SC,Stade Brestois 29,1 - 3
+13,26/11/2023 15:00:00,Stade de la Beaujoire,FC Nantes,Havre AC,0 - 0
+13,26/11/2023 17:05:00,Roazhon Park,Stade Rennais FC,Stade de Reims,3 - 1
+13,26/11/2023 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,LOSC Lille,0 - 2
+14,01/12/2023 21:00:00,Stade Auguste Delaune,Stade de Reims,RC Strasbourg Alsace,2 - 1
+14,02/12/2023 17:00:00,Stade Bollaert-Delelis,RC Lens,Olympique Lyonnais,3 - 2
+14,02/12/2023 21:00:00,Stade de la Beaujoire,FC Nantes,OGC Nice,1 - 0
+14,03/12/2023 13:00:00,Stade Océane,Havre AC,Paris Saint-Germain,0 - 2
+14,03/12/2023 15:00:00,Stade Francis-Le Blé,Stade Brestois 29,Clermont Foot 63,3 - 0
+14,03/12/2023 15:00:00,Stade Louis II,AS Monaco,Montpellier Hérault SC,2 - 0
+14,03/12/2023 15:00:00,Stadium de Toulouse,Toulouse FC,FC Lorient,1 - 1
+14,03/12/2023 17:05:00,Stade Pierre-Mauroy,LOSC Lille,FC Metz,2 - 0
+14,03/12/2023 20:45:00,Stade Vélodrome,Olympique de Marseille,Stade Rennais FC,2 - 0
+15,08/12/2023 21:00:00,Stade de la Mosson,Montpellier Hérault SC,RC Lens,0 - 0
+15,09/12/2023 17:00:00,Roazhon Park,Stade Rennais FC,AS Monaco,1 - 2
+15,09/12/2023 21:00:00,Parc des Princes,Paris Saint-Germain,FC Nantes,2 - 1
+15,10/12/2023 13:00:00,Stade de Nice,OGC Nice,Stade de Reims,2 - 1
+15,10/12/2023 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,LOSC Lille,0 - 0
+15,10/12/2023 15:00:00,Stade Saint-Symphorien,FC Metz,Stade Brestois 29,0 - 1
+15,10/12/2023 15:00:00,Stade de la Meinau,RC Strasbourg Alsace,Havre AC,2 - 1
+15,10/12/2023 17:05:00,Parc Olympique Lyonnais,Olympique Lyonnais,Toulouse FC,3 - 0
+15,10/12/2023 20:45:00,Stade du Moustoir,FC Lorient,Olympique de Marseille,2 - 4
+16,15/12/2023 21:00:00,Stade Louis II,AS Monaco,Olympique Lyonnais,0 - 1
+16,16/12/2023 17:00:00,Stade Océane,Havre AC,OGC Nice,3 - 1
+16,16/12/2023 21:00:00,Stade Bollaert-Delelis,RC Lens,Stade de Reims,2 - 0
+16,17/12/2023 13:00:00,Stade de la Beaujoire,FC Nantes,Stade Brestois 29,0 - 2
+16,17/12/2023 15:00:00,Stade du Moustoir,FC Lorient,RC Strasbourg Alsace,1 - 2
+16,17/12/2023 15:00:00,Stade Saint-Symphorien,FC Metz,Montpellier Hérault SC,0 - 1
+16,17/12/2023 15:00:00,Stadium de Toulouse,Toulouse FC,Stade Rennais FC,0 - 0
+16,17/12/2023 17:05:00,Stade Vélodrome,Olympique de Marseille,Clermont Foot 63,2 - 1
+16,17/12/2023 20:45:00,Stade Pierre-Mauroy,LOSC Lille,Paris Saint-Germain,1 - 1
+17,20/12/2023 21:00:00,Stade Francis-Le Blé,Stade Brestois 29,FC Lorient,4 - 0
+17,20/12/2023 21:00:00,Stade Gabriel Montpied,Clermont Foot 63,Stade Rennais FC,1 - 3
+17,20/12/2023 21:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,FC Nantes,1 - 0
+17,20/12/2023 21:00:00,Stade de la Mosson,Montpellier Hérault SC,Olympique de Marseille,1 - 1
+17,20/12/2023 21:00:00,Stade de Nice,OGC Nice,RC Lens,2 - 0
+17,20/12/2023 21:00:00,Parc des Princes,Paris Saint-Germain,FC Metz,3 - 1
+17,20/12/2023 21:00:00,Stade Auguste Delaune,Stade de Reims,Havre AC,1 - 0
+17,20/12/2023 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,LOSC Lille,2 - 1
+17,20/12/2023 21:00:00,Stadium de Toulouse,Toulouse FC,AS Monaco,1 - 2
+18,12/01/2024 21:00:00,Stade Vélodrome,Olympique de Marseille,RC Strasbourg Alsace,1 - 1
+18,13/01/2024 17:00:00,Stade Louis II,AS Monaco,Stade de Reims,1 - 3
+18,13/01/2024 21:00:00,Roazhon Park,Stade Rennais FC,OGC Nice,2 - 0
+18,14/01/2024 13:00:00,Stade Pierre-Mauroy,LOSC Lille,FC Lorient,3 - 0
+18,14/01/2024 15:00:00,Stade Francis-Le Blé,Stade Brestois 29,Montpellier Hérault SC,2 - 0
+18,14/01/2024 15:00:00,Stade Saint-Symphorien,FC Metz,Toulouse FC,0 - 1
+18,14/01/2024 15:00:00,Stade de la Beaujoire,FC Nantes,Clermont Foot 63,1 - 2
+18,14/01/2024 17:05:00,Stade Océane,Havre AC,Olympique Lyonnais,3 - 1
+18,14/01/2024 20:45:00,Stade Bollaert-Delelis,RC Lens,Paris Saint-Germain,0 - 2
+19,26/01/2024 21:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,Stade Rennais FC,2 - 3
+19,27/01/2024 17:00:00,Stade de Nice,OGC Nice,FC Metz,1 - 0
+19,27/01/2024 21:00:00,Stade Vélodrome,Olympique de Marseille,AS Monaco,2 - 2
+19,28/01/2024 13:00:00,Stade de la Mosson,Montpellier Hérault SC,LOSC Lille,0 - 0
+19,28/01/2024 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,RC Strasbourg Alsace,1 - 1
+19,28/01/2024 15:00:00,Stade du Moustoir,FC Lorient,Havre AC,3 - 3
+19,28/01/2024 15:00:00,Stade Auguste Delaune,Stade de Reims,FC Nantes,0 - 0
+19,28/01/2024 17:05:00,Stadium de Toulouse,Toulouse FC,RC Lens,0 - 2
+19,28/01/2024 20:45:00,Parc des Princes,Paris Saint-Germain,Stade Brestois 29,2 - 2
+20,02/02/2024 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,Paris Saint-Germain,1 - 2
+20,03/02/2024 17:00:00,Roazhon Park,Stade Rennais FC,Montpellier Hérault SC,2 - 1
+20,03/02/2024 21:00:00,Stade de la Beaujoire,FC Nantes,RC Lens,0 - 1
+20,04/02/2024 13:30:00,Stade Louis II,AS Monaco,Havre AC,1 - 1
+20,04/02/2024 15:00:00,Stade Pierre-Mauroy,LOSC Lille,Clermont Foot 63,4 - 0
+20,04/02/2024 15:00:00,Stade Saint-Symphorien,FC Metz,FC Lorient,1 - 2
+20,04/02/2024 15:00:00,Stade Auguste Delaune,Stade de Reims,Toulouse FC,2 - 3
+20,04/02/2024 17:05:00,Stade Francis-Le Blé,Stade Brestois 29,OGC Nice,0 - 0
+20,04/02/2024 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,Olympique de Marseille,1 - 0
+21,09/02/2024 21:00:00,Stade Vélodrome,Olympique de Marseille,FC Metz,1 - 1
+21,10/02/2024 17:00:00,Stade Bollaert-Delelis,RC Lens,RC Strasbourg Alsace,3 - 1
+21,10/02/2024 21:00:00,Parc des Princes,Paris Saint-Germain,LOSC Lille,3 - 1
+21,11/02/2024 13:00:00,Stade Océane,Havre AC,Stade Rennais FC,0 - 1
+21,11/02/2024 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,Stade Brestois 29,1 - 1
+21,11/02/2024 15:00:00,Stade du Moustoir,FC Lorient,Stade de Reims,2 - 0
+21,11/02/2024 15:00:00,Stadium de Toulouse,Toulouse FC,FC Nantes,1 - 2
+21,11/02/2024 17:05:00,Stade de la Mosson,Montpellier Hérault SC,Olympique Lyonnais,1 - 2
+21,11/02/2024 20:45:00,Stade de Nice,OGC Nice,AS Monaco,2 - 3
+22,16/02/2024 21:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,OGC Nice,1 - 0
+22,17/02/2024 17:00:00,Stade Pierre-Mauroy,LOSC Lille,Havre AC,3 - 0
+22,17/02/2024 21:00:00,Stade de la Beaujoire,FC Nantes,Paris Saint-Germain,0 - 2
+22,18/02/2024 13:00:00,Stade de la Meinau,RC Strasbourg Alsace,FC Lorient,1 - 3
+22,18/02/2024 15:00:00,Stade Louis II,AS Monaco,Toulouse FC,1 - 2
+22,18/02/2024 15:00:00,Stade de la Mosson,Montpellier Hérault SC,FC Metz,3 - 0
+22,18/02/2024 15:00:00,Roazhon Park,Stade Rennais FC,Clermont Foot 63,3 - 1
+22,18/02/2024 17:05:00,Stade Auguste Delaune,Stade de Reims,RC Lens,1 - 1
+22,18/02/2024 20:45:00,Stade Francis-Le Blé,Stade Brestois 29,Olympique de Marseille,1 - 0
+23,23/02/2024 21:00:00,Stade Saint-Symphorien,FC Metz,Olympique Lyonnais,1 - 2
+23,24/02/2024 17:00:00,Stade du Moustoir,FC Lorient,FC Nantes,0 - 1
+23,24/02/2024 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,Stade Brestois 29,0 - 3
+23,25/02/2024 13:00:00,Stade Bollaert-Delelis,RC Lens,AS Monaco,2 - 3
+23,25/02/2024 15:00:00,Stade Océane,Havre AC,Stade de Reims,1 - 2
+23,25/02/2024 15:00:00,Stade de Nice,OGC Nice,Clermont Foot 63,0 - 0
+23,25/02/2024 15:00:00,Stadium de Toulouse,Toulouse FC,LOSC Lille,3 - 1
+23,25/02/2024 17:05:00,Parc des Princes,Paris Saint-Germain,Stade Rennais FC,1 - 1
+23,25/02/2024 20:45:00,Stade Vélodrome,Olympique de Marseille,Montpellier Hérault SC,4 - 1
+24,01/03/2024 21:00:00,Stade Louis II,AS Monaco,Paris Saint-Germain,0 - 0
+24,02/03/2024 17:00:00,Stade Auguste Delaune,Stade de Reims,LOSC Lille,0 - 1
+24,02/03/2024 21:00:00,Stade Gabriel Montpied,Clermont Foot 63,Olympique de Marseille,1 - 5
+24,03/03/2024 13:00:00,Stadium de Toulouse,Toulouse FC,OGC Nice,2 - 1
+24,03/03/2024 15:00:00,Stade Francis-Le Blé,Stade Brestois 29,Havre AC,1 - 0
+24,03/03/2024 15:00:00,Stade de la Mosson,Montpellier Hérault SC,RC Strasbourg Alsace,2 - 2
+24,03/03/2024 15:00:00,Stade de la Beaujoire,FC Nantes,FC Metz,0 - 2
+24,03/03/2024 17:05:00,Roazhon Park,Stade Rennais FC,FC Lorient,1 - 2
+24,03/03/2024 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,RC Lens,0 - 3
+25,08/03/2024 21:00:00,Stade de Nice,OGC Nice,Montpellier Hérault SC,1 - 2
+25,09/03/2024 17:00:00,Stade du Moustoir,FC Lorient,Olympique Lyonnais,0 - 2
+25,09/03/2024 21:00:00,Stade Bollaert-Delelis,RC Lens,Stade Brestois 29,1 - 0
+25,10/03/2024 13:00:00,Parc des Princes,Paris Saint-Germain,Stade de Reims,2 - 2
+25,10/03/2024 15:00:00,Stade Océane,Havre AC,Toulouse FC,1 - 0
+25,10/03/2024 15:00:00,Stade Saint-Symphorien,FC Metz,Clermont Foot 63,1 - 0
+25,10/03/2024 15:00:00,Stade de la Meinau,RC Strasbourg Alsace,AS Monaco,0 - 1
+25,10/03/2024 17:05:00,Stade Pierre-Mauroy,LOSC Lille,Stade Rennais FC,2 - 2
+25,10/03/2024 20:45:00,Stade Vélodrome,Olympique de Marseille,FC Nantes,2 - 0
+26,15/03/2024 21:00:00,Stadium de Toulouse,Toulouse FC,Olympique Lyonnais,2 - 3
+26,16/03/2024 17:00:00,Stade de la Beaujoire,FC Nantes,RC Strasbourg Alsace,1 - 3
+26,16/03/2024 21:00:00,Stade Bollaert-Delelis,RC Lens,OGC Nice,1 - 3
+26,17/03/2024 13:00:00,Stade Francis-Le Blé,Stade Brestois 29,LOSC Lille,1 - 1
+26,17/03/2024 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,Havre AC,2 - 1
+26,17/03/2024 15:00:00,Stade Louis II,AS Monaco,FC Lorient,2 - 2
+26,17/03/2024 15:00:00,Stade Auguste Delaune,Stade de Reims,FC Metz,2 - 1
+26,17/03/2024 17:05:00,Roazhon Park,Stade Rennais FC,Olympique de Marseille,2 - 0
+26,17/03/2024 20:45:00,Stade de la Mosson,Montpellier Hérault SC,Paris Saint-Germain,2 - 6
+27,29/03/2024 21:00:00,Stade Pierre-Mauroy,LOSC Lille,RC Lens,2 - 1
+27,30/03/2024 17:00:00,Stade Saint-Symphorien,FC Metz,AS Monaco,2 - 5
+27,30/03/2024 21:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,Stade de Reims,1 - 1
+27,31/03/2024 13:00:00,Stade du Moustoir,FC Lorient,Stade Brestois 29,0 - 1
+27,31/03/2024 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,Toulouse FC,0 - 3
+27,31/03/2024 15:00:00,Stade Océane,Havre AC,Montpellier Hérault SC,0 - 2
+27,31/03/2024 15:00:00,Stade de Nice,OGC Nice,FC Nantes,1 - 2
+27,31/03/2024 17:05:00,Stade de la Meinau,RC Strasbourg Alsace,Stade Rennais FC,2 - 0
+27,31/03/2024 20:45:00,Stade Vélodrome,Olympique de Marseille,Paris Saint-Germain,0 - 2
+28,05/04/2024 21:00:00,Stade Pierre-Mauroy,LOSC Lille,Olympique de Marseille,3 - 1
+28,06/04/2024 17:00:00,Stade Bollaert-Delelis,RC Lens,Havre AC,1 - 1
+28,06/04/2024 21:00:00,Parc des Princes,Paris Saint-Germain,Clermont Foot 63,1 - 1
+28,07/04/2024 13:00:00,Stade Francis-Le Blé,Stade Brestois 29,FC Metz,4 - 3
+28,07/04/2024 15:00:00,Stade de la Mosson,Montpellier Hérault SC,FC Lorient,2 - 0
+28,07/04/2024 15:00:00,Stade Auguste Delaune,Stade de Reims,OGC Nice,0 - 0
+28,07/04/2024 15:00:00,Stadium de Toulouse,Toulouse FC,RC Strasbourg Alsace,0 - 0
+28,07/04/2024 17:05:00,Stade Louis II,AS Monaco,Stade Rennais FC,1 - 0
+28,07/04/2024 20:45:00,Stade de la Beaujoire,FC Nantes,Olympique Lyonnais,1 - 3
+29,12/04/2024 21:00:00,Stade Saint-Symphorien,FC Metz,RC Lens,2 - 1
+29,13/04/2024 17:00:00,Stade de la Meinau,RC Strasbourg Alsace,Stade de Reims,3 - 1
+29,13/04/2024 21:00:00,Roazhon Park,Stade Rennais FC,Toulouse FC,1 - 2
+29,14/04/2024 13:00:00,Stade Océane,Havre AC,FC Nantes,0 - 1
+29,14/04/2024 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,Montpellier Hérault SC,1 - 1
+29,14/04/2024 20:45:00,Parc Olympique Lyonnais,Olympique Lyonnais,Stade Brestois 29,4 - 3
+29,24/04/2024 19:00:00,Stade du Moustoir,FC Lorient,Paris Saint-Germain,1 - 4
+29,24/04/2024 19:00:00,Stade Louis II,AS Monaco,LOSC Lille,1 - 0
+29,24/04/2024 21:00:00,Stade Vélodrome,Olympique de Marseille,OGC Nice,2 - 2
+30,19/04/2024 21:00:00,Stade de Nice,OGC Nice,FC Lorient,3 - 0
+30,20/04/2024 17:00:00,Stade de la Beaujoire,FC Nantes,Stade Rennais FC,0 - 3
+30,20/04/2024 21:00:00,Stade Bollaert-Delelis,RC Lens,Clermont Foot 63,1 - 0
+30,21/04/2024 15:00:00,Stade Océane,Havre AC,FC Metz,0 - 1
+30,21/04/2024 15:00:00,Stade Pierre-Mauroy,LOSC Lille,RC Strasbourg Alsace,1 - 0
+30,21/04/2024 15:00:00,Stade Auguste Delaune,Stade de Reims,Montpellier Hérault SC,1 - 2
+30,21/04/2024 17:05:00,Stade Francis-Le Blé,Stade Brestois 29,AS Monaco,0 - 2
+30,21/04/2024 19:00:00,Stadium de Toulouse,Toulouse FC,Olympique de Marseille,2 - 2
+30,21/04/2024 21:00:00,Parc des Princes,Paris Saint-Germain,Olympique Lyonnais,4 - 1
+31,26/04/2024 21:00:00,Stade de la Mosson,Montpellier Hérault SC,FC Nantes,1 - 1
+31,27/04/2024 21:00:00,Parc des Princes,Paris Saint-Germain,Havre AC,3 - 3
+31,28/04/2024 13:00:00,Stade Saint-Symphorien,FC Metz,LOSC Lille,1 - 2
+31,28/04/2024 15:00:00,Stade Gabriel Montpied,Clermont Foot 63,Stade de Reims,4 - 1
+31,28/04/2024 15:00:00,Stade du Moustoir,FC Lorient,Toulouse FC,1 - 2
+31,28/04/2024 15:00:00,Stade de la Meinau,RC Strasbourg Alsace,OGC Nice,1 - 3
+31,28/04/2024 17:05:00,Roazhon Park,Stade Rennais FC,Stade Brestois 29,4 - 5
+31,28/04/2024 19:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,AS Monaco,3 - 2
+31,28/04/2024 21:00:00,Stade Vélodrome,Olympique de Marseille,RC Lens,2 - 1
+32,03/05/2024 19:00:00,Stadium de Toulouse,Toulouse FC,Montpellier Hérault SC,1 - 2
+32,03/05/2024 21:00:00,Stade Bollaert-Delelis,RC Lens,FC Lorient,2 - 0
+32,04/05/2024 15:00:00,Stade Océane,Havre AC,RC Strasbourg Alsace,3 - 1
+32,04/05/2024 17:00:00,Stade Louis II,AS Monaco,Clermont Foot 63,4 - 1
+32,04/05/2024 19:00:00,Stade Saint-Symphorien,FC Metz,Stade Rennais FC,2 - 3
+32,04/05/2024 21:00:00,Stade Francis-Le Blé,Stade Brestois 29,FC Nantes,0 - 0
+32,06/05/2024 21:00:00,Stade Pierre-Mauroy,LOSC Lille,Olympique Lyonnais,3 - 4
+32,15/05/2024 21:00:00,Stade de Nice,OGC Nice,Paris Saint-Germain,1 - 2
+32,15/05/2024 21:00:00,Stade Auguste Delaune,Stade de Reims,Olympique de Marseille,1 - 0
+33,10/05/2024 21:00:00,Stade Francis-Le Blé,Stade Brestois 29,Stade de Reims,1 - 1
+33,10/05/2024 21:00:00,Stade de Nice,OGC Nice,Havre AC,1 - 0
+33,12/05/2024 21:00:00,Stade Gabriel Montpied,Clermont Foot 63,Olympique Lyonnais,0 - 1
+33,12/05/2024 21:00:00,Stade Vélodrome,Olympique de Marseille,FC Lorient,3 - 1
+33,12/05/2024 21:00:00,Stade de la Mosson,Montpellier Hérault SC,AS Monaco,0 - 2
+33,12/05/2024 21:00:00,Stade de la Beaujoire,FC Nantes,LOSC Lille,1 - 2
+33,12/05/2024 21:00:00,Parc des Princes,Paris Saint-Germain,Toulouse FC,1 - 3
+33,12/05/2024 21:00:00,Roazhon Park,Stade Rennais FC,RC Lens,1 - 1
+33,12/05/2024 21:00:00,Stade de la Meinau,RC Strasbourg Alsace,FC Metz,2 - 1
+34,19/05/2024 21:00:00,Stade Océane,Havre AC,Olympique de Marseille,1 - 2
+34,19/05/2024 21:00:00,Stade Bollaert-Delelis,RC Lens,Montpellier Hérault SC,2 - 2
+34,19/05/2024 21:00:00,Stade Pierre-Mauroy,LOSC Lille,OGC Nice,2 - 2
+34,19/05/2024 21:00:00,Stade du Moustoir,FC Lorient,Clermont Foot 63,5 - 0
+34,19/05/2024 21:00:00,Parc Olympique Lyonnais,Olympique Lyonnais,RC Strasbourg Alsace,2 - 1
+34,19/05/2024 21:00:00,Stade Saint-Symphorien,FC Metz,Paris Saint-Germain,0 - 2
+34,19/05/2024 21:00:00,Stade Louis II,AS Monaco,FC Nantes,4 - 0
+34,19/05/2024 21:00:00,Stade Auguste Delaune,Stade de Reims,Stade Rennais FC,2 - 1
+34,19/05/2024 21:00:00,Stadium de Toulouse,Toulouse FC,Stade Brestois 29,0 - 3
