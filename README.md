@@ -1,0 +1,1 @@
+This project uses Machine Learning to predict train delay levels across the SNCF network. It features a versatile pipeline supporting Supervised and Unsupervised Learning. The goal is to predict the average delay or the delay category based on features like departure/arrival stations, weather conditions, and temporal data such as vacation, concerts and weekends.
